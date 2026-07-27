@@ -30,7 +30,7 @@
 
 # 👋 About Me
 
-I'm a **Cybersecurity Analyst** with **5+ years of experience** in Security Operations, Incident Response, Threat Detection, and Enterprise Security Monitoring across MSSP and enterprise environments.
+I'm a **Cybersecurity Analyst** with **6+ years of experience** in Security Operations, Incident Response, Threat Detection, and Enterprise Security Monitoring across MSSP and enterprise environments.
 
 Currently working as a **Security Analyst Specialist at HWG Sababa (Lithuania)**, I monitor high-volume SIEM environments processing over **50,000 security events daily**, investigate advanced cyber threats, and support multiple enterprise customers with proactive threat detection and incident response.
 
@@ -79,11 +79,7 @@ I enjoy solving security challenges, investigating sophisticated attacks, improv
 
 ---
 
-<p align="center">
 
-<img src="https://raw.githubusercontent.com/neo-phyte008/neo-phyte008/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
 
 # 💬 Ask Me About
 
