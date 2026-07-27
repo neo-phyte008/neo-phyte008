@@ -6,7 +6,7 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Experience-5%2B%20Years-success?style=for-the-badge">
+<img src="https://img.shields.io/badge/Experience-6%2B%20Years-success?style=for-the-badge">
 
 <img src="https://img.shields.io/badge/Open%20to-Cybersecurity%20Roles-blue?style=for-the-badge">
 
