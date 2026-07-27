@@ -80,6 +80,10 @@ I enjoy solving security challenges, investigating sophisticated attacks, improv
 ---
 
 
+Looks like a SOC console.
+
+---
+
 
 # 💬 Ask Me About
 
