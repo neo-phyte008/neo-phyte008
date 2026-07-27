@@ -777,11 +777,6 @@ Currently developing expertise in:
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/neo-phyte008/neo-phyte008/output/dist/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/neo-phyte008/neo-phyte008/output/dist/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/neo-phyte008/neo-phyte008/output/dist/github-contribution-grid-snake.svg" />
-</picture>
 
 ## 🛰️ Communication Channels
 
@@ -796,3 +791,9 @@ Currently developing expertise in:
 ---
 
 > **🟢 STATUS:** Available for **SOC Analyst**, **Cybersecurity Analyst**, **Detection Engineer**, **Incident Response**, and **Threat Hunting** opportunities.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/neo-phyte008/neo-phyte008/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/neo-phyte008/neo-phyte008/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/neo-phyte008/neo-phyte008/output/github-contribution-grid-snake.svg" />
+</picture>
