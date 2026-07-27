@@ -66,6 +66,19 @@ I enjoy solving security challenges, investigating sophisticated attacks, improv
 
 ---
 
+### 🧰 My Toolbox
+
+![MS Sentinel](https://img.shields.io/badge/-Sentinel-05122A?style=flat&logo=Sentinel)
+![Splunk](https://img.shields.io/badge/-Splunk-black?logo=splunk)
+![Yara](https://img.shields.io/badge/-Yara-blue?logo=Yara)
+![CrowdStrike](https://img.shields.io/badge/-CrowdStrike-red?logo=crowdstrike)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter)
+![Elastic Stack](https://img.shields.io/badge/-Elastic%20Stack-005571?logo=elasticsearch)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+![Sigma](https://img.shields.io/badge/-Sigma%20Rules-blueviolet)
+
+---
+
 # 🚀 Current Focus
 
 - 🎓 Pursuing Master's in Information & Information Technologies Security (VILNIUS TECH)
