@@ -1,1 +1,35 @@
+name: Generate contribution snake
 
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch: {}
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate snake SVGs (light + dark)
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: neo-phyte008
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=%237C3AED&color_dots=%23E8EAF0,%23C7D2FE,%2393B4FF,%235B93FF,%2326C46E
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%238B5CF6&color_dots=%232D3343,%231B3358,%232F6FE0,%235B93FF,%233EF08A
+
+      - name: Push SVGs to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
