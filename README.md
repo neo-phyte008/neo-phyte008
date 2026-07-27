@@ -734,32 +734,54 @@ Currently developing expertise in:
 
 ---
 
-# 📡 Secure Communication Channel
+---
+
+# 📡 Secure Communication Terminal
 
 ```text
-┌─────────────────────────────────────────────────────────────┐
-│           BLUE TEAM COMMUNICATION TERMINAL                  │
-├─────────────────────────────────────────────────────────────┤
-│ STATUS          : 🟢 ONLINE                                │
-│ LOCATION        : 🇱🇹 Vilnius, Lithuania                    │
-│ ROLE            : Security Analyst Specialist              │
-│ CLEARANCE       : Blue Team Operations                     │
-│ AVAILABILITY    : Open to Cybersecurity Opportunities       │
-└─────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════╗
+║            BLUE TEAM COMMUNICATION TERMINAL                 ║
+╠══════════════════════════════════════════════════════════════╣
+║ STATUS        : 🟢 ONLINE                                  ║
+║ LOCATION      : 🇱🇹 Vilnius, Lithuania                      ║
+║ ROLE          : Security Analyst Specialist                ║
+║ SPECIALIZATION: SOC • Threat Hunting • Incident Response   ║
+║ AVAILABILITY  : Open to Cybersecurity Opportunities         ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 <p align="center">
 
 <a href="mailto:Manjuteju008@gmail.com">
-<img src="https://img.shields.io/badge/📧_Secure_Email-Contact_Me-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📧_Email-Manjuteju008@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/manjunath-nayaka-g-b3609b119/">
-<img src="https://img.shields.io/badge/💼_LinkedIn-Professional_Network-0077B5?style=for-the-badge"/>
+<a href="tel:+37067927281">
+<img src="https://img.shields.io/badge/📱_Phone-+370_679_27281-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
-<a href="https://neophytise.wordpress.com/blog-2/">
-<img src="https://img.shields.io/badge/📝_Cyber_Blog-Latest_Research-21759B?style=for-the-badge"/>
+<a href="https://www.linkedin.com/in/manjunath-nayaka-g-b3609b119/" target="_blank">
+<img src="https://img.shields.io/badge/💼_LinkedIn-Manjunath_Nayaka-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://neophytise.wordpress.com/blog-2/" target="_blank">
+<img src="https://img.shields.io/badge/🌐_Cyber_Blog-Read_Articles-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
 </a>
 
 </p>
+
+---
+
+## 🛰️ Communication Channels
+
+| 📡 Channel | 🔗 Details |
+|------------|------------|
+| 📧 Secure Email | **Manjuteju008@gmail.com** |
+| 📱 Mobile | **+370 679 27281** |
+| 💼 LinkedIn | **linkedin.com/in/manjunath-nayaka-g-b3609b119** |
+| 🌐 Cybersecurity Blog | **neophytise.wordpress.com/blog-2** |
+| 📍 Location | **Vilnius, Lithuania** |
+
+---
+
+> **🟢 STATUS:** Available for **SOC Analyst**, **Cybersecurity Analyst**, **Detection Engineer**, **Incident Response**, and **Threat Hunting** opportunities.
