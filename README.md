@@ -79,23 +79,6 @@ I enjoy solving security challenges, investigating sophisticated attacks, improv
 
 ---
 
-Looks like a SOC console.
-
----
-
-# 🎯 10. Blue Team Operations Dashboard ⭐⭐⭐⭐⭐
-
-```markdown
-| 🛡️ Blue Team Dashboard | Status |
-|------------------------|--------|
-| Security Monitoring | 🟢 Active |
-| Threat Hunting | 🟢 Active |
-| Incident Response | 🟢 Active |
-| Malware Analysis | 🟢 Active |
-| SIEM Operations | 🟢 Active |
-| Detection Engineering | 🟢 Learning & Building |
-| Cloud Security | 🟢 Active |
-| Automation | 🟡 Growing |
 
 # 💬 Ask Me About
 
