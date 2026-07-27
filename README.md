@@ -83,7 +83,61 @@ I enjoy solving security challenges, investigating sophisticated attacks, improv
 Looks like a SOC console.
 
 ---
+██████████████████████████████████
 
+Animated Cyber Banner
+
+██████████████████████████████████
+
+Typing SVG
+
+██████████████████████████████████
+
+Status Badges
+
+██████████████████████████████████
+
+SOC Status Panel
+
+██████████████████████████████████
+
+GitHub Stats
+
+GitHub Streak
+
+██████████████████████████████████
+
+Activity Graph
+
+██████████████████████████████████
+
+Skills Dashboard
+
+██████████████████████████████████
+
+Professional Experience
+
+██████████████████████████████████
+
+Projects
+
+██████████████████████████████████
+
+Detection Engineering
+
+██████████████████████████████████
+
+Trophies
+
+██████████████████████████████████
+
+Snake Animation
+
+██████████████████████████████████
+
+Contact
+
+██████████████████████████████████
 
 # 💬 Ask Me About
 
