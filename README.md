@@ -12,7 +12,7 @@
 
 <img src="https://img.shields.io/badge/Location-Lithuania-orange?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/Focus-SOC%20%7C%20Threat%20Hunting-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/Focus-SOC%20%7C%20Threat%20Hunting%20%7C%20Detection%20Engineering-red?style=for-the-badge">
 
 <img src="https://img.shields.io/badge/Availability-Open%20to%20Work-brightgreen?style=for-the-badge">
 
