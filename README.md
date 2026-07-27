@@ -731,3 +731,35 @@ Currently developing expertise in:
 - Digital Forensics
 - Advanced Incident Response
 - Purple Team Operations
+
+---
+
+# 📡 Secure Communication Channel
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│           BLUE TEAM COMMUNICATION TERMINAL                  │
+├─────────────────────────────────────────────────────────────┤
+│ STATUS          : 🟢 ONLINE                                │
+│ LOCATION        : 🇱🇹 Vilnius, Lithuania                    │
+│ ROLE            : Security Analyst Specialist              │
+│ CLEARANCE       : Blue Team Operations                     │
+│ AVAILABILITY    : Open to Cybersecurity Opportunities       │
+└─────────────────────────────────────────────────────────────┘
+```
+
+<p align="center">
+
+<a href="mailto:Manjuteju008@gmail.com">
+<img src="https://img.shields.io/badge/📧_Secure_Email-Contact_Me-0A66C2?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/manjunath-nayaka-g-b3609b119/">
+<img src="https://img.shields.io/badge/💼_LinkedIn-Professional_Network-0077B5?style=for-the-badge"/>
+</a>
+
+<a href="https://neophytise.wordpress.com/blog-2/">
+<img src="https://img.shields.io/badge/📝_Cyber_Blog-Latest_Research-21759B?style=for-the-badge"/>
+</a>
+
+</p>
