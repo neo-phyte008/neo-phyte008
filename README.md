@@ -57,7 +57,7 @@ I enjoy solving security challenges, investigating sophisticated attacks, improv
 |------|-------------|
 | 🛡 Incident Response | Investigate, triage and respond to enterprise security incidents across multiple customer environments. |
 | 🔎 Threat Hunting | Analyze Indicators of Compromise (IOCs), attacker behaviors and suspicious activities using MITRE ATT&CK methodologies. |
-| 📊 SIEM Monitoring | Monitor Microsoft Sentinel, QRadar, FortiSIEM and RSA NetWitness for enterprise threat detection. |
+| 📊 SIEM Monitoring | Monitor Microsoft Sentinel, QRadar, Splunk, FortiSIEM and RSA NetWitness for enterprise threat detection. |
 | ☁ Cloud Security | Investigate Microsoft cloud security alerts and Defender XDR incidents. |
 | 🦠 Malware Analysis | Analyze phishing emails, malicious files, suspicious URLs and malware campaigns. |
 | 💻 Endpoint Security | Investigate endpoint alerts using Defender, CrowdStrike, Cynet, Trend Micro and Sophos. |
