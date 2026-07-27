@@ -1,737 +1,741 @@
-```{=html}
-<!--
-  MANJUNATH NAYAKA — GITHUB PROFILE README
-  Replace [YOUR_GITHUB_USERNAME] with your actual GitHub username.
--->
-```
-```{=html}
-<!-- HERO START -->
-```
-```{=html}
+<!-- HERO BANNER -->
+
 <p align="center">
-```
-`<a href="https://github.com/[YOUR_GITHUB_USERNAME]">`{=html}
-`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1929,50:132f4c,100:1f6feb&height=240&section=header&text=Manjunath%20Nayaka&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Cybersecurity%20Analyst%20%C2%B7%20SIEM%20%C2%B7%20Incident%20Response%20%C2%B7%20Threat%20Analysis&descAlignY=60&descSize=17&descColor=c9d1d9&animation=fadeIn" alt="Manjunath Nayaka cybersecurity profile banner">`{=html}
-`</a>`{=html}
-```{=html}
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:071E3D,50:0F4C75,100:3282B8&text=Manjunath%20Nayaka&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Analyst%20|%20SOC%20Operations%20|%20Threat%20Detection%20|%20Incident%20Response&descAlignY=60&descSize=18" />
 </p>
-```
-```{=html}
-<!-- HERO END -->
-```
-```{=html}
-<!-- CONTRIBUTION SNAKE START -->
-```
-```{=html}
+
 <p align="center">
-```
-`<picture>`{=html}
-`<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[YOUR_GITHUB_USERNAME]/[YOUR_GITHUB_USERNAME]/output/github-contribution-grid-snake-dark.svg">`{=html}
-`<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[YOUR_GITHUB_USERNAME]/[YOUR_GITHUB_USERNAME]/output/github-contribution-grid-snake.svg">`{=html}
-`<img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/[YOUR_GITHUB_USERNAME]/[YOUR_GITHUB_USERNAME]/output/github-contribution-grid-snake.svg" width="100%">`{=html}
-`</picture>`{=html}
-```{=html}
+
+<img src="https://img.shields.io/badge/Experience-5%2B%20Years-success?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Open%20to-Cybersecurity%20Roles-blue?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Location-Lithuania-orange?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Focus-SOC%20%7C%20Threat%20Hunting-red?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Availability-Open%20to%20Work-brightgreen?style=for-the-badge">
+
 </p>
-```
-```{=html}
-<!-- CONTRIBUTION SNAKE END -->
-```
-```{=html}
-<!-- STATUS BAR START -->
-```
-```{=html}
+
+---
+
 <p align="center">
-```
-`<img src="https://img.shields.io/badge/ROLE-CYBERSECURITY%20ANALYST-58a6ff?style=flat-square&labelColor=132f4c">`{=html}
-`<img src="https://img.shields.io/badge/EXPERIENCE-5%2B%20YEARS-ff8c42?style=flat-square&labelColor=132f4c">`{=html}
-`<img src="https://img.shields.io/badge/FOCUS-SIEM%20%C2%B7%20IR%20%C2%B7%20THREAT%20ANALYSIS-36d1dc?style=flat-square&labelColor=132f4c">`{=html}
-`<img src="https://img.shields.io/badge/REGION-LITHUANIA%20%C2%B7%20EUROPE-a371f7?style=flat-square&labelColor=132f4c">`{=html}
-```{=html}
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=900&lines=Cybersecurity+Analyst;SOC+Operations;Threat+Detection;Incident+Response;Microsoft+Sentinel;Microsoft+Defender+XDR;CrowdStrike;Threat+Hunting;Detection+Engineering;Security+Monitoring;Cloud+Security;SIEM+Engineer"/>
+
 </p>
-```
-```{=html}
-<!-- STATUS BAR END -->
-```
-```{=html}
-<!-- AT A GLANCE START -->
-```
-```{=html}
+
+---
+
+# 👋 About Me
+
+I'm a **Cybersecurity Analyst** with **5+ years of experience** in Security Operations, Incident Response, Threat Detection, and Enterprise Security Monitoring across MSSP and enterprise environments.
+
+Currently working as a **Security Analyst Specialist at HWG Sababa (Lithuania)**, I monitor high-volume SIEM environments processing over **50,000 security events daily**, investigate advanced cyber threats, and support multiple enterprise customers with proactive threat detection and incident response.
+
+My experience spans:
+
+- 🛡️ Security Operations Center (SOC)
+- 🔍 Threat Hunting
+- 🚨 Incident Response
+- 📊 SIEM Monitoring
+- ☁️ Cloud Security
+- 🦠 Malware Analysis
+- 🎣 Phishing Investigations
+- 🔐 Endpoint Detection & Response
+- 📈 Security Event Correlation
+- 🎯 MITRE ATT&CK Mapping
+
+I enjoy solving security challenges, investigating sophisticated attacks, improving detection capabilities, and continuously learning new cybersecurity technologies.
+
+---
+
+# 🎯 What I Do
+
+| Area | Description |
+|------|-------------|
+| 🛡 Incident Response | Investigate, triage and respond to enterprise security incidents across multiple customer environments. |
+| 🔎 Threat Hunting | Analyze Indicators of Compromise (IOCs), attacker behaviors and suspicious activities using MITRE ATT&CK methodologies. |
+| 📊 SIEM Monitoring | Monitor Microsoft Sentinel, QRadar, FortiSIEM and RSA NetWitness for enterprise threat detection. |
+| ☁ Cloud Security | Investigate Microsoft cloud security alerts and Defender XDR incidents. |
+| 🦠 Malware Analysis | Analyze phishing emails, malicious files, suspicious URLs and malware campaigns. |
+| 💻 Endpoint Security | Investigate endpoint alerts using Defender, CrowdStrike, Cynet, Trend Micro and Sophos. |
+| 📧 Email Security | Detect phishing campaigns using Proofpoint and enterprise email security technologies. |
+| ⚙ Detection Engineering | Improve detection quality through log analysis, event correlation and MITRE ATT&CK mapping. |
+
+---
+
+# 🚀 Current Focus
+
+- 🎓 Pursuing Master's in Information & Information Technologies Security (VILNIUS TECH)
+- 🔍 Advancing Threat Hunting methodologies
+- ☁ Strengthening Cloud Security expertise
+- 🛡 Enhancing Detection Engineering skills
+- 🤖 Learning Security Automation and SOAR workflows
+- 📚 Expanding Microsoft Sentinel and Defender XDR knowledge
+- 🏆 Working toward advanced cybersecurity certifications
+- 🌍 Seeking opportunities in Detection Engineering and Incident Response
+
+---
+
 <p align="center">
-```
-`<img src="https://img.shields.io/badge/50K%2B-Daily%20security%20events%20monitored-3fb950?style=flat-square&labelColor=132f4c">`{=html}
-`<img src="https://img.shields.io/badge/%3C15%20min-Critical%20threat%20escalation-f85149?style=flat-square&labelColor=132f4c">`{=html}
-`<img src="https://img.shields.io/badge/15%25-Incident%20closure%20improvement-ffcf5a?style=flat-square&labelColor=132f4c">`{=html}
-`<img src="https://img.shields.io/badge/24%2F7-MSSP%20security%20operations-36d1dc?style=flat-square&labelColor=132f4c">`{=html}
-```{=html}
+
+<img src="https://raw.githubusercontent.com/neo-phyte008/neo-phyte008/output/github-contribution-grid-snake-dark.svg"/>
+
 </p>
-```
-```{=html}
-<!-- AT A GLANCE END -->
-```
-```{=html}
-<!-- TYPING ANIMATION START -->
-```
-```{=html}
+
+# 💬 Ask Me About
+
+- Microsoft Sentinel
+- Microsoft Defender XDR
+- QRadar
+- FortiSIEM
+- RSA NetWitness
+- CrowdStrike
+- Cynet
+- Darktrace
+- Threat Hunting
+- Malware Analysis
+- Incident Response
+- SIEM Engineering
+- Cloud Security
+- MITRE ATT&CK
+- Detection Engineering
+- Phishing Investigation
+- SOC Operations
+- Security Monitoring
+
+---
+
 <p align="center">
-```
-`<a href="https://github.com/[YOUR_GITHUB_USERNAME]">`{=html}
-`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=700&color=39D353&background=0A192900&center=true&vCenter=true&width=900&height=60&lines=%E2%96%B6+Cybersecurity+Analyst;%E2%96%B6+SIEM+Monitoring+%26+Security+Operations;%E2%96%B6+Incident+Response+%26+Threat+Investigation;%E2%96%B6+Threat+Hunting+%26+IOC+Analysis;%E2%96%B6+EDR+%2F+XDR+%2F+NDR+Security+Operations;%E2%96%B6+MSSP+Security+Monitoring" alt="Typing animation">`{=html}
-`</a>`{=html}
-```{=html}
+
+### 💙 "Turning Security Alerts into Actionable Intelligence"
+
 </p>
-```
-```{=html}
-<!-- TYPING ANIMATION END -->
-```
-```{=html}
-<p align="center">
-```
-`<sub>`{=html}👋 Welcome to my profile --- security operations, threat
-analysis, and incident response are where I do my best
-work.`</sub>`{=html}
-```{=html}
+
+---
+
+# 🛠️ Technical Stack
+
+## 📊 SIEM
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/IBM%20QRadar-054ADA?style=for-the-badge&logo=ibm&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/FortiSIEM-EE3124?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RSA%20NetWitness-0066CC?style=for-the-badge"/>
+
 </p>
-```
 
-------------------------------------------------------------------------
+---
 
-## 🛡️ About
+## 🖥️ EDR / XDR
 
-I am a **Cybersecurity Analyst with 5+ years of experience** across
-security operations, MSSP environments, incident investigation, network
-operations, and technical security analysis.
+<p align="left">
 
-Currently working as a **Security Analyst Specialist at HWG Sababa**, I
-provide 24/7 security monitoring and incident response across multiple
-enterprise customer environments. My work includes monitoring
-high-volume SIEM environments, investigating phishing, malware,
-endpoint, and network-based attacks, analyzing indicators of compromise,
-and performing threat analysis across multiple security platforms.
+<img src="https://img.shields.io/badge/Microsoft%20Defender-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
 
-I bring a combination of **security operations expertise and strong
-networking fundamentals**, with hands-on experience across SIEM,
-EDR/XDR, NDR, SOAR, email security, incident response, threat hunting,
-and cloud security.
+<img src="https://img.shields.io/badge/CrowdStrike-E01F26?style=for-the-badge&logo=crowdstrike&logoColor=white"/>
 
-My approach is simple:
+<img src="https://img.shields.io/badge/Cynet-1E88E5?style=for-the-badge"/>
 
-> **Detect clearly. Investigate deeply. Communicate precisely. Respond
-> effectively.**
+<img src="https://img.shields.io/badge/Trend%20Micro-D71920?style=for-the-badge"/>
 
-------------------------------------------------------------------------
+<img src="https://img.shields.io/badge/Sophos-0C5CAB?style=for-the-badge"/>
 
-## 🎯 What I Do
-
-  -----------------------------------------------------------------------
-  Area                                Focus
-  ----------------------------------- -----------------------------------
-  **Security Operations**             24/7 monitoring, alert triage,
-                                      escalation, and incident
-                                      coordination across enterprise
-                                      environments
-
-  **SIEM Monitoring**                 Security event analysis,
-                                      correlation, investigation, and
-                                      threat escalation
-
-  **Incident Response**               Detection, investigation, scoping,
-                                      containment support, remediation
-                                      coordination, and closure
-
-  **Threat Analysis**                 IOC analysis, suspicious activity
-                                      investigation, and threat actor TTP
-                                      analysis
-
-  **Threat Hunting**                  Hypothesis-driven investigation
-                                      across endpoint, network, and
-                                      security telemetry
-
-  **Phishing & Malware Analysis**     Investigation of malicious emails,
-                                      suspicious files, links, and
-                                      malware activity
-
-  **Endpoint Security**               EDR/XDR investigation using
-                                      Microsoft Defender, Cynet,
-                                      CrowdStrike, Trend Micro, and
-                                      Sophos
-
-  **Network Security**                Firewall, IDS/IPS, VPN, network
-                                      monitoring, connectivity, and
-                                      security event analysis
-
-  **Detection Engineering**           Detection logic, security
-                                      monitoring improvement, and
-                                      threat-informed defense
-
-  **Cloud Security**                  Security monitoring and
-                                      investigation across modern cloud
-                                      security environments
-
-  **Security Process Improvement**    Improving coordination, ticketing
-                                      workflows, incident documentation,
-                                      and closure processes
-  -----------------------------------------------------------------------
-
-------------------------------------------------------------------------
-
-## 📊 Security Operations Snapshot
-
-``` text
-┌─────────────────────────────────────────────────────────────┐
-│                    SECURITY OPERATIONS                      │
-├─────────────────────────────────────────────────────────────┤
-│  Security Events Monitored       50,000+ daily              │
-│  Critical Threat Escalation      Within 15 minutes          │
-│  Monitoring Model                24/7 MSSP Operations        │
-│  Enterprise Environments         Multiple customer tenants  │
-│  Incident Closure Improvement    15%                        │
-└─────────────────────────────────────────────────────────────┘
-```
-
-------------------------------------------------------------------------
-
-## 🧭 Currently Focused On
-
--   🔭 **Working on** --- Security operations, incident investigation,
-    threat analysis, and improving detection workflows
--   🌱 **Deepening** --- Threat hunting, detection engineering, MITRE
-    ATT&CK, cloud security, and security automation
--   🧪 **Exploring** --- Better ways to correlate SIEM, endpoint,
-    network, and threat intelligence evidence
--   📚 **Improving** --- Incident response documentation, investigation
-    methodology, and security process efficiency
--   🎤 **Discussing** --- SIEM operations, threat analysis, incident
-    response, MSSP environments, and cybersecurity career growth
-
-------------------------------------------------------------------------
-
-## 💬 Ask Me About
-
-`SIEM` · `Microsoft Sentinel` · `IBM QRadar` · `FortiSIEM` ·
-`RSA NetWitness` · `Incident Response` · `Threat Hunting` ·
-`IOC Analysis` · `Phishing Analysis` · `Malware Analysis` · `EDR/XDR` ·
-`NDR` · `SOAR` · `MITRE ATT&CK` · `Cloud Security` ·
-`Security Operations` · `MSSP Environments` · `Network Security`
-
-------------------------------------------------------------------------
-
-# 🧰 Technology Stack
-
-## SIEM
-
-```{=html}
-<p>
-```
-`<img src="https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=flat-square&logo=microsoftazure&logoColor=white&labelColor=132f4c">`{=html}
-`<img src="https://img.shields.io/badge/IBM%20QRadar-054ADA?style=flat-square&logo=ibm&logoColor=white&labelColor=132f4c">`{=html}
-`<img src="https://img.shields.io/badge/FortiSIEM-EE3124?style=flat-square&logo=fortinet&logoColor=white&labelColor=132f4c">`{=html}
-`<img src="https://img.shields.io/badge/RSA%20NetWitness-CC0000?style=flat-square&logoColor=white&labelColor=132f4c">`{=html}
-```{=html}
 </p>
-```
-## EDR / XDR
 
-```{=html}
-<p>
-```
-`<img src="https://img.shields.io/badge/Microsoft%20Defender-0078D4?style=flat-square&logo=microsoft&logoColor=white&labelColor=132f4c">`{=html}
-`<img src="https://img.shields.io/badge/Cynet-00AEEF?style=flat-square&logoColor=white&labelColor=132f4c">`{=html}
-`<img src="https://img.shields.io/badge/CrowdStrike-E00000?style=flat-square&logo=crowdstrike&logoColor=white&labelColor=132f4c">`{=html}
-`<img src="https://img.shields.io/badge/Trend%20Micro-D71920?style=flat-square&logoColor=white&labelColor=132f4c">`{=html}
-`<img src="https://img.shields.io/badge/Sophos-005B9A?style=flat-square&logo=sophos&logoColor=white&labelColor=132f4c">`{=html}
-```{=html}
+---
+
+## 🌐 Network Detection & Response
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Darktrace-0044CC?style=for-the-badge"/>
+
 </p>
-```
-## NDR / Network Detection
 
-```{=html}
-<p>
-```
-`<img src="https://img.shields.io/badge/Darktrace-111111?style=flat-square&logoColor=white&labelColor=132f4c">`{=html}
-```{=html}
+---
+
+## 🤖 SOAR
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Cortex%20XSOAR-FA6400?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/QRadar%20SOAR-054ADA?style=for-the-badge"/>
+
 </p>
-```
-## SOAR
 
-```{=html}
-<p>
-```
-`<img src="https://img.shields.io/badge/Cortex%20XSOAR-FF6B00?style=flat-square&logoColor=white&labelColor=132f4c">`{=html}
-`<img src="https://img.shields.io/badge/IBM%20QRadar%20SOAR-054ADA?style=flat-square&logo=ibm&logoColor=white&labelColor=132f4c">`{=html}
-```{=html}
+---
+
+## 📧 Email Security
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Proofpoint-FF6A00?style=for-the-badge"/>
+
 </p>
-```
-## Email Security
 
-```{=html}
-<p>
-```
-`<img src="https://img.shields.io/badge/Proofpoint-FF6B00?style=flat-square&logoColor=white&labelColor=132f4c">`{=html}
-```{=html}
+---
+
+## 🎯 Detection Engineering
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/MITRE%20ATT%26CK-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Threat%20Hunting-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Incident%20Response-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Malware%20Analysis-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Phishing%20Analysis-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/IOC%20Analysis-darkgreen?style=for-the-badge"/>
+
 </p>
-```
-## Security Domains
 
-```{=html}
-<p>
-```
-`<img src="https://img.shields.io/badge/Incident%20Response-f85149?style=flat-square&labelColor=132f4c">`{=html}
-`<img src="https://img.shields.io/badge/Threat%20Hunting-36d1dc?style=flat-square&labelColor=132f4c">`{=html}
-`<img src="https://img.shields.io/badge/Phishing%20Analysis-ff8c42?style=flat-square&labelColor=132f4c">`{=html}
-`<img src="https://img.shields.io/badge/Malware%20Analysis-a371f7?style=flat-square&labelColor=132f4c">`{=html}
-`<img src="https://img.shields.io/badge/IOC%20Analysis-58a6ff?style=flat-square&labelColor=132f4c">`{=html}
-`<img src="https://img.shields.io/badge/MITRE%20ATT%26CK-f85149?style=flat-square&labelColor=132f4c">`{=html}
-`<img src="https://img.shields.io/badge/Cloud%20Security-0078D4?style=flat-square&labelColor=132f4c">`{=html}
-```{=html}
+---
+
+## ☁ Cloud Security
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Microsoft%20Cloud-0078D4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Defender%20XDR-success?style=for-the-badge"/>
+
 </p>
-```
-## ITSM / Ticketing
 
-```{=html}
-<p>
-```
-`<img src="https://img.shields.io/badge/ServiceNow-62D84E?style=flat-square&logo=servicenow&logoColor=white&labelColor=132f4c">`{=html}
-`<img src="https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white&labelColor=132f4c">`{=html}
-`<img src="https://img.shields.io/badge/BMC%20Remedy-0072CE?style=flat-square&logoColor=white&labelColor=132f4c">`{=html}
-```{=html}
+---
+
+## 🎫 Ticketing & ITSM
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/ServiceNow-00A95C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/BMC%20Remedy-FF6600?style=for-the-badge"/>
+
 </p>
-```
-## Networking
 
-```{=html}
-<p>
-```
-`<img src="https://img.shields.io/badge/Firewalls-f85149?style=flat-square&labelColor=132f4c">`{=html}
-`<img src="https://img.shields.io/badge/IDS%2FIPS-ff8c42?style=flat-square&labelColor=132f4c">`{=html}
-`<img src="https://img.shields.io/badge/VPN-36d1dc?style=flat-square&labelColor=132f4c">`{=html}
-`<img src="https://img.shields.io/badge/Routing%20%26%20Switching-58a6ff?style=flat-square&labelColor=132f4c">`{=html}
-`<img src="https://img.shields.io/badge/Network%20Monitoring-a371f7?style=flat-square&labelColor=132f4c">`{=html}
-```{=html}
-</p>
-```
+---
 
-------------------------------------------------------------------------
+# 📈 Skills Matrix
 
-# 🔄 Security Investigation Pipeline
+| Domain | Level |
+|---------|--------|
+| Security Monitoring | ⭐⭐⭐⭐⭐ |
+| SIEM Operations | ⭐⭐⭐⭐⭐ |
+| Incident Response | ⭐⭐⭐⭐⭐ |
+| Threat Hunting | ⭐⭐⭐⭐☆ |
+| Malware Analysis | ⭐⭐⭐⭐☆ |
+| Phishing Analysis | ⭐⭐⭐⭐☆ |
+| Detection Engineering | ⭐⭐⭐⭐☆ |
+| Endpoint Security | ⭐⭐⭐⭐⭐ |
+| Cloud Security | ⭐⭐⭐⭐☆ |
+| Log Analysis | ⭐⭐⭐⭐⭐ |
+| MITRE ATT&CK | ⭐⭐⭐⭐☆ |
+| SOAR | ⭐⭐⭐⭐☆ |
 
-``` text
-┌─────────────┐
-│   DETECTION │
-└──────┬──────┘
-       ↓
-┌─────────────┐
-│ ALERT TRIAGE │
-└──────┬──────┘
-       ↓
-┌──────────────┐
-│ EVENT CORREL.│
-└──────┬───────┘
-       ↓
-┌──────────────┐
-│ IOC ANALYSIS │
-└──────┬───────┘
-       ↓
-┌───────────────┐
-│ THREAT HUNTING│
-└──────┬────────┘
-       ↓
-┌──────────────────┐
-│ INCIDENT SCOPING │
-└──────┬───────────┘
-       ↓
-┌────────────────────┐
-│ RESPONSE / ESCALATE│
-└──────┬─────────────┘
-       ↓
-┌────────────────┐
-│ CLOSURE & RCA  │
-└────────────────┘
-```
+---
 
-------------------------------------------------------------------------
+# 💼 Professional Experience
 
-# 🚨 Incident Response Mindset
+<details open>
 
-``` text
-Detection
-    ↓
-Investigation
-    ↓
-Scoping
-    ↓
-Containment Support
-    ↓
-Remediation Coordination
-    ↓
-Recovery
-    ↓
-Root Cause Analysis
-    ↓
-Lessons Learned
-```
+## 🛡️ Security Analyst Specialist
 
-My focus is not only on identifying alerts, but understanding:
+### HWG Sababa • Vilnius, Lithuania
 
--   What happened?
--   How did it happen?
--   What evidence supports the finding?
--   What systems or users are affected?
--   What is the potential business impact?
--   What needs to happen next?
--   How can the same activity be detected earlier?
+**April 2025 – Present**
 
-------------------------------------------------------------------------
+**Highlights**
 
-# 🧪 Featured Projects
+- Monitored SIEM platforms processing **50,000+ security events daily**
+- Performed 24×7 SOC monitoring in an MSSP environment
+- Investigated phishing, malware, endpoint and network attacks
+- Conducted investigations using Microsoft Defender, Cynet, CrowdStrike and Darktrace
+- Escalated high-priority incidents within defined SLAs
 
-> This section should be populated with my actual GitHub repositories.
-> Replace the examples below with real repositories from my profile.
+**Technologies**
 
-```{=html}
-<table>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td width="50%" valign="top">
-```
-### 🛡️ Cybersecurity Project
+Microsoft Sentinel • Microsoft Defender • Cynet • CrowdStrike • Darktrace • Threat Hunting • Incident Response
 
-**[Project
-Name](https://github.com/%5BYOUR_GITHUB_USERNAME%5D/%5BREPOSITORY%5D)**
+</details>
 
-Short description of the cybersecurity project, its purpose, and the
-security problem it addresses.
+---
 
-**Focus:** SIEM · Detection · Incident Response
+<details>
 
-```{=html}
-</td>
-```
-```{=html}
-<td width="50%" valign="top">
-```
-### 🔍 Security Research / Lab
+## 🏢 Senior Engineer
 
-**[Project
-Name](https://github.com/%5BYOUR_GITHUB_USERNAME%5D/%5BREPOSITORY%5D)**
+### HCL Technologies
 
-Short description of the lab, automation project, threat research, or
-technical work.
+**Jan 2022 – Aug 2024**
 
-**Focus:** Threat Hunting · Security Automation
+**Highlights**
 
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
-</table>
-```
+- Monitored enterprise SIEM alerts
+- Assisted incident response documentation
+- Improved incident closure through better SOC coordination
+- Supported security operations and ticket management
 
-------------------------------------------------------------------------
+**Technologies**
 
-# 🔬 Technical Deep Dive
+SIEM • ServiceNow • Security Monitoring • Incident Response
 
-## Security Event Investigation
+</details>
 
-``` text
-Security Event
-      ↓
-SIEM Alert
-      ↓
-Initial Triage
-      ↓
-Log Correlation
-      ↓
-Endpoint Evidence
-      ↓
-Network Evidence
-      ↓
-IOC Enrichment
-      ↓
-MITRE ATT&CK Mapping
-      ↓
-Risk Assessment
-      ↓
-Response / Escalation
-```
+---
 
-## Evidence Correlation
+<details>
 
-``` text
-┌──────────────┐
-│ SIEM TELEMETRY│
-└──────┬───────┘
-       │
-       ├──────────────► Endpoint Evidence
-       │
-       ├──────────────► Network Evidence
-       │
-       ├──────────────► Threat Intelligence
-       │
-       └──────────────► User / Identity Context
-                         │
-                         ↓
-                  ┌───────────────┐
-                  │ THREAT ANALYSIS│
-                  └───────────────┘
-                         │
-                         ↓
-                  ┌───────────────┐
-                  │ RISK DECISION  │
-                  └───────────────┘
-```
+## 💻 Software Engineering Analyst
 
-------------------------------------------------------------------------
+### Accenture
 
-# 🧯 Professional Experience
+**Jan 2021 – Jan 2022**
 
-## Security Analyst Specialist --- HWG Sababa
+**Highlights**
 
-**Vilnius, Lithuania · April 2025 -- Present**
+- Reviewed Google Play applications against security policies
+- Investigated mobile unwanted software (MUwS)
+- Supported vulnerability and patch monitoring
+- Assisted with incident remediation and stakeholder coordination
 
--   Monitor SIEM environments processing **50,000+ daily security
-    events**.
--   Identify and escalate critical threats within **15 minutes of
-    detection**.
--   Provide **24/7 security monitoring and incident response** across
-    multiple enterprise customer environments.
--   Investigate phishing, malware, endpoint, and network-based attacks.
--   Perform endpoint and network threat analysis using Microsoft
-    Defender, Cynet, Darktrace, and CrowdStrike.
--   Support security incident documentation and operational process
-    improvements.
+</details>
 
-------------------------------------------------------------------------
+---
 
-## Senior Engineer --- HCL Technologies
+<details>
 
-**Bengaluru, India · January 2022 -- August 2024**
+## 🌐 NOC Engineer
 
--   Monitored security alerts generated by SIEM platforms.
--   Coordinated with security teams to resolve incidents.
--   Supported incident response procedures and security operations
-    processes.
--   Improved incident closure rates by **15%** through improved
-    coordination with SOC vendors.
--   Assisted with enhancements to ticketing and operational workflows.
+### Wibmo
 
-------------------------------------------------------------------------
+**Jan 2018 – Apr 2020**
 
-## Software Engineering Analyst --- Accenture
+**Highlights**
 
-**Bengaluru, India · January 2021 -- January 2022**
+- 24×7 network monitoring
+- Firewall and IDS/IPS alert analysis
+- Infrastructure monitoring
+- Change management support
 
--   Performed global policy reviews of applications published on the
-    Google Play Store.
--   Worked with Mobile Unwanted Software (MUwS) policy review.
--   Investigated applications for PII leakage and dangerous download
-    links.
--   Investigated incidents and coordinated remediation and follow-up
-    with stakeholders.
--   Assisted with vulnerability and patch monitoring for security and
-    compliance.
+</details>
 
-------------------------------------------------------------------------
+---
 
-## NOC Engineer --- Wibmo
+<details>
 
-**Bengaluru, India · January 2018 -- April 2020**
+## 🔧 Network Engineer
 
--   Monitored network and security alerts in a 24/7 operational
-    environment.
--   Supported high availability of critical infrastructure.
--   Monitored firewall, IDS/IPS, and endpoint security alerts.
--   Supported proactive threat detection.
--   Supported change management and maintenance activities with minimal
-    service disruption.
+### Telexair Telecom
 
-------------------------------------------------------------------------
+**Feb 2017 – Jan 2018**
 
-## Network Engineer --- Telexair Telecom
+**Highlights**
 
-**Bengaluru, India · February 2017 -- January 2018**
+- Router and switch monitoring
+- VPN troubleshooting
+- Network performance analysis
+- Client incident coordination
 
--   Monitored routers, switches, firewalls, and VPN connectivity.
--   Investigated packet loss, latency, connectivity issues, and
-    bandwidth utilization.
--   Coordinated with internal teams, vendors, and clients for timely
-    incident resolution.
+</details>
 
-------------------------------------------------------------------------
+---
 
 # 🎓 Education
 
-### Master of Information and Information Technologies Security
+```text
+2024 ───────────────────────────────► Present
+🎓 Master's
+Information & Information Technologies Security
+VILNIUS TECH
+(Expected Sep 2026)
 
-**VILNIUS TECH --- Vilnius, Lithuania**\
-Expected: **September 2026**
+2021 ───────────────────────────────► 2023
+🎓 Master of Computer Applications
+Jain University
 
-### Master of Computer Applications --- Information Technology & Computer Science
-
-**Jain College / Jain University --- Bengaluru, India**\
-June 2021 -- September 2023
-
-### Bachelor of Science in Electronics
-
-**Vijaya College / Bangalore University --- Bengaluru, India**\
-February 2011 -- May 2015
-
-------------------------------------------------------------------------
-
-# 🏆 Certifications & Recognition
-
-### Certifications
-
--   **Certified Ethical Hacker (CEH)**
--   **Cortex XSOAR Analyst Training Certificate**
--   **CCNA**
--   **Cisco Certified Network Associate (R&S)**
-
-### Recognition
-
--   **Most Vigilant Team of the Year --- 2022**
--   **Overall Best Team, Division Two --- 2022**
-
-### Additional Training
-
--   **Gurugram Police Cyber Cell Summer Internship**
-
-------------------------------------------------------------------------
-
-# 📊 GitHub Statistics
-
-```{=html}
-<p align="center">
+2011 ───────────────────────────────► 2015
+🎓 Bachelor of Science (Electronics)
+Bangalore University
 ```
-`<img height="180" src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&hide_border=true&theme=github_dark" alt="GitHub statistics">`{=html}
-`<img height="180" src="https://streak-stats.demolab.com?user=[YOUR_GITHUB_USERNAME]&hide_border=true&theme=github-dark-blue" alt="GitHub contribution streak">`{=html}
-```{=html}
+
+---
+
+# 🏅 Certifications
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Certified%20Ethical%20Hacker-CEH-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Cortex%20XSOAR-Analyst-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/CCNA-Cisco-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Cisco-R%26S-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Gurugram%20Police-Cyber%20Cell-orange?style=for-the-badge"/>
+
 </p>
+
+---
+
+# 🏆 Awards
+
+🏅 Most Vigilant Team of the Year (2022)
+
+🏅 Overall Best Team – Division Two (2022)
+
+---
+
+# 🚀 Featured Projects
+
+> **Note:** Replace these placeholders with your actual GitHub repositories as you publish them.
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🛡️ Enterprise SOC Monitoring Lab
+
+**Status:** 🚧 In Progress
+
+**Description**
+
+A Microsoft Sentinel-based SOC lab demonstrating:
+
+- Security event monitoring
+- Incident investigation
+- Defender XDR integration
+- MITRE ATT&CK mapping
+- KQL hunting queries
+- Alert triage
+
+**Tech Stack**
+
+Microsoft Sentinel • Defender XDR • KQL • MITRE ATT&CK
+
+⭐ *Replace with your GitHub repository*
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🔎 Threat Hunting Playbook
+
+**Status:** 🚧 Planned
+
+**Description**
+
+Collection of practical threat hunting scenarios including:
+
+- IOC investigation
+- PowerShell attacks
+- Suspicious logon detection
+- Malware persistence
+- Lateral movement
+
+**Tech Stack**
+
+Sentinel • Defender • QRadar • Sigma
+
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 📧 Phishing Investigation Lab
+
+**Status:** 🚧 Planned
+
+**Description**
+
+Demonstrates:
+
+- Email header analysis
+- URL investigation
+- IOC extraction
+- Attachment analysis
+- Incident documentation
+
+**Tech Stack**
+
+Proofpoint • Defender • Virus Analysis
+
+
+</td>
+
+<td width="50%" valign="top">
+
+## ☁ Cloud Security Detection Lab
+
+**Status:** 🚧 Planned
+
+**Description**
+
+Security monitoring examples for Microsoft cloud environments.
+
+Includes:
+
+- Identity investigations
+- Cloud alert triage
+- Risk investigations
+- Defender workflows
+
+⭐ *Replace with your repository*
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🔥 Detection Engineering Portfolio
+
+## Areas of Interest
+
+✅ Threat Hunting
+
+✅ Security Monitoring
+
+✅ Incident Response
+
+✅ Malware Analysis
+
+✅ Phishing Analysis
+
+✅ Endpoint Security
+
+✅ Cloud Security
+
+✅ MITRE ATT&CK Mapping
+
+✅ IOC Investigation
+
+✅ Detection Engineering
+
+---
+
+# 📊 Example Sigma Detection Rule
+
+> Example demonstrating the type of detection logic relevant to your skills.
+
+```yaml
+title: Suspicious PowerShell Encoded Command
+
+id: 9baf-001
+
+status: experimental
+
+description: Detects encoded PowerShell execution.
+
+logsource:
+  product: windows
+  category: process_creation
+
+detection:
+  selection:
+    Image|endswith:
+      - powershell.exe
+
+    CommandLine|contains:
+      - "-enc"
+      - "-EncodedCommand"
+
+condition: selection
+
+level: high
+
+tags:
+
+- attack.execution
+
+- attack.t1059.001
 ```
-```{=html}
-<p align="center">
-```
-`<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&hide_border=true&theme=github_dark" alt="Top programming languages">`{=html}
-```{=html}
-</p>
-```
 
-------------------------------------------------------------------------
+---
 
-# 🌐 Personal Website
+# ☁ Microsoft Sentinel (KQL)
 
-```{=html}
-<p align="center">
-```
-`<a href="https://neophytise.wordpress.com/blog-2/">`{=html}
-`<img src="https://img.shields.io/badge/Visit%20My%20Website-Neophytise-1f6feb?style=for-the-badge&logo=wordpress&logoColor=white">`{=html}
-`</a>`{=html}
-```{=html}
-</p>
-```
-My website is a space for my professional online presence, technical
-interests, and cybersecurity-related content.
-
-------------------------------------------------------------------------
-
-# ⚡ Quick Facts
-
-  ----------------------------------- ----------------------------------------------------------------------
-  **Role**                            Security Analyst Specialist
-
-  **Experience**                      5+ years
-
-  **Primary Focus**                   Security Operations & Cybersecurity Analysis
-
-  **Specialties**                     SIEM · Incident Response · Threat Analysis · Threat Hunting
-
-  **Location**                        Vilnius, Lithuania
-
-  **Education**                       Master's in Information and Information Technologies Security
-
-  **Certifications**                  CEH · CCNA · Cortex XSOAR Analyst Training
-
-  **Languages**                       English · Hindi
-
-  **Website**                         [neophytise.wordpress.com](https://neophytise.wordpress.com/blog-2/)
-
-  **LinkedIn**                        [Connect with
-                                      me](https://www.linkedin.com/in/manjunath-nayaka-g-b3609b119/)
-  ----------------------------------- ----------------------------------------------------------------------
-
-------------------------------------------------------------------------
-
-# 💼 Let's Connect
-
-I am interested in connecting with professionals working in:
-
--   Cybersecurity
--   Security Operations
--   SIEM Engineering
--   Incident Response
--   Threat Detection
--   Threat Hunting
--   Cloud Security
--   Security Automation
--   Network Security
-
-If you are working on interesting security problems, building security
-tools, or simply want to discuss cybersecurity operations, feel free to
-connect.
-
-```{=html}
-<p align="center">
-```
-`<a href="https://github.com/[YOUR_GITHUB_USERNAME]">`{=html}
-`<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">`{=html}
-`</a>`{=html}
-`<a href="https://www.linkedin.com/in/manjunath-nayaka-g-b3609b119/">`{=html}
-`<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">`{=html}
-`</a>`{=html}
-`<a href="https://neophytise.wordpress.com/blog-2/">`{=html}
-`<img src="https://img.shields.io/badge/Website-1f6feb?style=for-the-badge&logo=wordpress&logoColor=white">`{=html}
-`</a>`{=html} `<a href="mailto:manjuteju008@gmail.com">`{=html}
-`<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">`{=html}
-`</a>`{=html}
-```{=html}
-</p>
+```kql
+SecurityEvent
+| where EventID == 4625
+| summarize FailedAttempts=count()
+by Account, IPAddress, bin(TimeGenerated, 10m)
+| where FailedAttempts > 10
+| order by FailedAttempts desc
 ```
 
-------------------------------------------------------------------------
+Purpose:
 
-```{=html}
-<p align="center">
-```
-`<sub>`{=html}🛡️ Security is not just about detecting threats --- it is
-about understanding them well enough to respond with
-confidence.`</sub>`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<sub>`{=html}© Manjunath Nayaka`</sub>`{=html}
-```{=html}
-</p>
+Detects repeated authentication failures that may indicate brute-force attempts.
+
+---
+
+# 📊 Splunk SPL Example
+
+```spl
+index=wineventlog EventCode=4625
+
+| stats count by Account_Name, src_ip
+
+| where count > 10
+
+| sort -count
 ```
 
-<!--
-**neo-phyte008/neo-phyte008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Purpose:
 
-Here are some ideas to get you started:
+Identifies repeated failed logins from the same source.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 🦠 YARA Example
+
+```yara
+rule Suspicious_PowerShell
+{
+
+meta:
+
+author = "Manjunath Nayaka"
+
+description = "Detect suspicious PowerShell execution"
+
+strings:
+
+$ps = "powershell.exe"
+
+$enc = "-EncodedCommand"
+
+condition:
+
+$ps and $enc
+
+}
+```
+
+---
+
+# 🧠 Threat Hunting Workflow
+
+```text
+Security Alert
+
+↓
+
+Initial Triage
+
+↓
+
+IOC Collection
+
+↓
+
+Endpoint Investigation
+
+↓
+
+Network Investigation
+
+↓
+
+Threat Intelligence Correlation
+
+↓
+
+MITRE ATT&CK Mapping
+
+↓
+
+Containment
+
+↓
+
+Eradication
+
+↓
+
+Recovery
+
+↓
+
+Lessons Learned
+```
+
+---
+
+# 📊 Security Investigation Lifecycle
+
+| Phase | Objective |
+|--------|-----------|
+| Detection | Identify suspicious activity |
+| Triage | Assess alert severity |
+| Investigation | Collect evidence |
+| Correlation | Link related events |
+| Containment | Limit attacker activity |
+| Remediation | Remove threat |
+| Recovery | Restore operations |
+| Reporting | Document findings |
+
+---
+
+# 🎯 Areas of Expertise
+
+🛡 Security Monitoring
+
+🔍 Threat Hunting
+
+🚨 Incident Response
+
+📈 Log Analysis
+
+🦠 Malware Investigation
+
+🎣 Phishing Analysis
+
+📊 SIEM Monitoring
+
+🖥 Endpoint Security
+
+☁ Cloud Security
+
+⚙ Detection Engineering
+
+📧 Email Security
+
+📚 MITRE ATT&CK
+
+---
+
+# 📈 Career Focus
+
+Currently developing expertise in:
+
+- Microsoft Sentinel
+- Detection Engineering
+- Threat Hunting
+- Security Automation
+- Cloud Security
+- Digital Forensics
+- Advanced Incident Response
+- Purple Team Operations
