@@ -382,6 +382,10 @@ Bangalore University
 
 <img src="https://img.shields.io/badge/Gurugram%20Police-Cyber%20Cell-orange?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/Certified%20Tactical Threat Intelligence%20Analyst-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Certified-Advanced Defender-blue?style=for-the-badge"/>
+
 </p>
 
 ---
