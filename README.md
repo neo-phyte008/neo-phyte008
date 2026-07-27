@@ -87,6 +87,7 @@ I enjoy solving security challenges, investigating sophisticated attacks, improv
 - QRadar
 - Splunk
 - CrowdStrike
+- Cyber Threat Intelligence
 - Threat Hunting
 - Malware Analysis
 - Incident Response
