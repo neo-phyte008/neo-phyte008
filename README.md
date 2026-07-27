@@ -85,11 +85,8 @@ I enjoy solving security challenges, investigating sophisticated attacks, improv
 - Microsoft Sentinel
 - Microsoft Defender XDR
 - QRadar
-- FortiSIEM
-- RSA NetWitness
+- Splunk
 - CrowdStrike
-- Cynet
-- Darktrace
 - Threat Hunting
 - Malware Analysis
 - Incident Response
