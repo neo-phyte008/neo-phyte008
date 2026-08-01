@@ -439,7 +439,6 @@ A Microsoft Sentinel-based SOC lab demonstrating:
 
 Microsoft Sentinel • Defender XDR • KQL • MITRE ATT&CK
 
-⭐ *Replace with your GitHub repository*
 
 </td>
 
@@ -510,7 +509,6 @@ Includes:
 - Risk investigations
 - Defender workflows
 
-⭐ *Replace with your repository*
 
 </td>
 
@@ -547,7 +545,7 @@ Includes:
 
 # 📊 Example Sigma Detection Rule
 
-> Example demonstrating the type of detection logic relevant to your skills.
+> Example demonstrating the type of detection logic which is relevant.
 
 ```yaml
 title: Suspicious PowerShell Encoded Command
